@@ -1,7 +1,7 @@
 <resources>
     <string name="language_apology_text" translation_description="Apology for missing translations in this language and appeal for help.">
-        Annwyl Seryddwr. Rydym yn ymddiheuro am y geiriau Saesneg yn SkyMap. SkyMap cael ei gynnal gan wirfoddolwyr.
-        Yn anffodus, nid oes gennym cyfieithiadau cyflawn ym mhob iaith.
-        Os allwch helpu yn eich iaith, rydym yn croesawu cyfieithiadau cyflawn neu cywiriadau i\'r cyfieithiadau
+        Annwyl Seryddwr, Rydym yn ymddiheuro am nad yw SkyMap ar gael yn gyflawn yn Gymraeg ar hyn o bryd. 
+        Rydym yn dibynnu ar wirfoddolwyr i gynnal a chadw pob elfen o'r brosiect.
+        Fel prosiect agored, mae croeso i unrhyw un ein helpu gyda chyfieithu a chywiriadau.
     </string>
 </resources>
